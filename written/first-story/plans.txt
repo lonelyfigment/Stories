@@ -1,3 +1,5 @@
+Title: "The doubts then the sweetness"
+
 Main Character: 
     Gender: male
     Name: Oliver
@@ -16,7 +18,7 @@ Second Domanatrix:
     Role: D
     Personality: Honest, Sadistic, Caring
 
-Opening Idea:
+Opening Idea: (Just an idea I started out playing around with)
     Oliver lives on his own, struggling with self doubt and a lust for kink.
     Torn between the repsectable man that everyone sees him as and the indescribable
     mixed feelings on the inside, he lustfully but reluctantly decides to meet
