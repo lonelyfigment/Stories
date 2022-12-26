@@ -1,14 +1,22 @@
-Main character: 
+Main Character: 
     Gender: male
     Name: Oliver
     Role: some S + somewhat D
+    Personality: Introverted, Shy, Facaded
 
 First Domanatrix:
     Gender: female
     Name: Kelly
     Role: D
+    Personality: Energetic, Silly, Optimistic
 
-Projected summary:
+Second Domanatrix:
+    Gender: female
+    Name: Laura
+    Role: D
+    Personality: Honest, Sadistic, Caring
+
+Opening Idea:
     Oliver lives on his own, struggling with self doubt and a lust for kink.
     Torn between the repsectable man that everyone sees him as and the indescribable
     mixed feelings on the inside, he lustfully but reluctantly decides to meet
@@ -36,5 +44,3 @@ Projected summary:
     he was a cuck, which he did not enjoy, tied in the corner of the room, only intermittedly
     receiving some touches. Oliver doubts himself and when the hour is up, he says goodbye and leaves.
 
-
-Story (oversimplified to single phrases)
